@@ -1,4 +1,4 @@
-# AdvanceRegression-House_Price_Prediction using advance regression techniques like Ridge and Lasso.
+# House_Price_Prediction using advance regression techniques like Ridge and Lasso.
 
 A US-based house company name has decided to enter australian market , the company wants to purchase houses at lower price values and sell them on at a higher price. They need to understand different datapoints and factors that might they help to address their business challenge.
 Since the company had decided to collect dataset from the sale of houses in australia. 
